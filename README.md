@@ -33,6 +33,8 @@ cd your-repo-name
 Install dependencies:
 
 npm install
+npm i axios
+
 Create a .env file in the project root and add your API key:
 
 VITE_WEATHER_API_KEY=your_api_key_here
@@ -52,6 +54,3 @@ Pull requests are welcome!
 
 📝 License
 This project is open-source and available under the MIT License.
-
-I kept it beginner-friendly and professional.
-Do you want me to **add an `.env.example` section** in the README so others know exactly what env variable to set?
