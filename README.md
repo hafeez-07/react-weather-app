@@ -3,7 +3,6 @@
 A simple and responsive weather application built with **React + TypeScript + Tailwind CSS**.  
 It uses the **OpenWeatherMap API** to fetch real-time weather data.
 
----
 
 ## 🚀 Features
 
@@ -15,7 +14,6 @@ It uses the **OpenWeatherMap API** to fetch real-time weather data.
 - Responsive design with Tailwind CSS
 - Built with **TypeScript** for better code safety
 
----
 
 ## 🛠️ Technologies Used
 
@@ -24,8 +22,6 @@ It uses the **OpenWeatherMap API** to fetch real-time weather data.
 - Tailwind CSS
 - Axios
 - OpenWeatherMap API
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -39,13 +35,9 @@ Install dependencies:
 npm install
 Create a .env file in the project root and add your API key:
 
-env
-Copy code
 VITE_WEATHER_API_KEY=your_api_key_here
 Start the development server:
 
-bash
-Copy code
 npm run dev
 
 📸 Screenshot
