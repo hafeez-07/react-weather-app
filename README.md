@@ -54,7 +54,7 @@ npm run dev
 
 
 📸 Screenshot
-(Add a screenshot of your app here if you want)
+![Weather app screenshot](./screenshotWeatherApp.png)
 
 📌 Note
 This project requires an API key from OpenWeatherMap.
