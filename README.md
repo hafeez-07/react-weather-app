@@ -3,6 +3,10 @@
 A simple and responsive weather application built with **React + TypeScript + Tailwind CSS**.  
 It uses the **OpenWeatherMap API** to fetch real-time weather data.
 
+## 🔗 Live Demo
+
+👉 **[View Live App](https://react-weather-app-fb3c.vercel.app)**
+
 
 ## 🚀 Features
 
